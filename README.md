@@ -88,22 +88,7 @@ Live Monitoring Dashboard
 
 ---
 
-## 📁 Project Structure
-
-
-apilab-next/
-│
-├── backend/        # Core services, middleware and execution engine (.NET)
-├── frontend/       # Dashboard UI (React)
-├── examples/       # Sample APIs to test the platform
-├── docs/           # Architecture and planning documents
-│
-├── README.md
-├── LICENSE
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - .NET / ASP.NET Core
@@ -116,7 +101,7 @@ apilab-next/
 
 ---
 
-## 🚧 Roadmap
+## Roadmap
 
 - [x] Project setup
 - [ ] OpenAPI parsing
@@ -129,7 +114,7 @@ apilab-next/
 
 ---
 
-## 🧩 Example Use Cases
+## Example Use Cases
 
 - Quickly verify all endpoints before deploy  
 - Detect slow APIs under load  
@@ -138,7 +123,7 @@ apilab-next/
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 > Project is currently under active development
 
@@ -150,10 +135,10 @@ cd apilab-next
 ```
 Setup instructions will be added as the project evolves.
 
-📄 License
+# License
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+# Author
 Diego Geymonat
 Student of Information Technologies – ORT Uruguay
 
