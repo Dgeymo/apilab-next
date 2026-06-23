@@ -1,0 +1,5 @@
+
+@ApiLabNext.Api_HostAddress = http://localhost:5239
+
+GET {{ApiLabNext.Api_HostAddress}}/health
+Accept: application/json
