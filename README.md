@@ -130,7 +130,7 @@ Live Monitoring Dashboard
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/apilab-next.git
+git clone https://github.com/dgeymo/apilab-next.git
 cd apilab-next
 ```
 Setup instructions will be added as the project evolves.
