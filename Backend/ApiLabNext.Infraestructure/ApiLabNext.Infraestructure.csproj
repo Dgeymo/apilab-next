@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="OpenApi\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiLabNext.Domain\ApiLabNext.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

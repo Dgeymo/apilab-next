@@ -1,7 +1,9 @@
 <Solution>
-  <Folder Name="/ApiLabNext.UI/" />
-  <Project Path="ApiLabNext.Api/ApiLabNext.Api.csproj" />
-  <Project Path="ApiLabNext.Aplication/ApiLabNext.Aplication.csproj" Id="6240cb4d-d444-44aa-9e8a-4d4fe61d5406" />
-  <Project Path="ApiLabNext.Domain/ApiLabNext.Domain.csproj" Id="d2f0b26d-f99e-454f-aaed-463e9bdc6852" />
-  <Project Path="ApiLabNext.Infraestructure/ApiLabNext.Infraestructure.csproj" Id="4a42a89e-5c8b-4f57-bef7-7e14eb20a4f6" />
+  <Folder Name="/Backend/">
+    <Project Path="Backend/ApiLabNext.Api/ApiLabNext.Api.csproj" />
+    <Project Path="Backend/ApiLabNext.Aplication/ApiLabNext.Aplication.csproj" />
+    <Project Path="Backend/ApiLabNext.Domain/ApiLabNext.Domain.csproj" />
+    <Project Path="Backend/ApiLabNext.Infraestructure/ApiLabNext.Infraestructure.csproj" />
+  </Folder>
+  <Folder Name="/Tests/" />
 </Solution>

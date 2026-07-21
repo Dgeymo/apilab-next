@@ -1,4 +1,4 @@
-﻿namespace ApiLabNext.Api.Models
+﻿namespace ApiLabNext.Domain.Entities
 {
     public class ApiRequestLog
     {
@@ -7,6 +7,6 @@
         public int StatusCode { get; set; }
         public long Duration { get; set; }
         public DateTime Timestamp { get; set; }
-    }
+    }   
 
 }
